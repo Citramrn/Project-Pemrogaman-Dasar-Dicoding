@@ -19,3 +19,6 @@ Berikut kriteria submission yang harus Anda penuhi:
 
 * Tema yang ditampilkan bebas, namun semakin detail dan lengkap website Anda maka 
   nilai submission bisa lebih tinggi.
+  
+  DEMO WEBSITE 
+  
