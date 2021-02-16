@@ -22,6 +22,8 @@ Berikut kriteria submission yang harus Anda penuhi:
   
   
   * Demo Website 
-  <img src="demo.mp4">
+ <video width="320" height="240" controls>
+  <source src="demo.mp4" type="video/mp4">
+</video>
   
   
